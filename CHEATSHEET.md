@@ -1,5 +1,7 @@
 # Access S3 from a VPC — Cheat Sheet
 
+> 📚 **Part 8 of 9** in my [AWS VPC Series](https://github.com/jasahorro/AWS-VPC-Series) · ← Previous: [VPC Monitoring with Flow Logs](https://github.com/jasahorro/VPC-Monitoring-with-Flow-Logs/blob/main/CHEATSHEET.md) · Next: [VPC Endpoints](https://github.com/jasahorro/VPC-Endpoints/blob/main/CHEATSHEET.md) →
+
 Lesson notes for reviewing later. The project write-up is in [README.md](README.md).
 
 ## Contents
